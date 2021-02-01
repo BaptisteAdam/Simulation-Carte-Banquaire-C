@@ -1,0 +1,6 @@
+version test regardant sur le clavier la demande du client (de la forme [cb] [montant] )
+--This line, and those below, will be ignored--
+
+M    Terminal.c
+M    makefile
+M    message.c

@@ -1,0 +1,7 @@
+Version simple 1 Acqui, 1 auto, 1 terminal -- Code PROPRE
+--This line, and those below, will be ignored--
+
+M    Acquisition.c
+M    Autorisation.c
+M    Terminal.c
+M    makefile
